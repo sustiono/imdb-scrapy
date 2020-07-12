@@ -1,6 +1,6 @@
 # IMDB Scrapy
 
-Scrap best movies from https://www.imdb.com/search/title/?genres=drama&groups=top_250&sort=user_rating,desc using Scrapy
+Scrap best movies from [IMDB](https://www.imdb.com/search/title/?genres=drama&groups=top_250&sort=user_rating,desc) using Scrapy
 
 ## Installation
 
